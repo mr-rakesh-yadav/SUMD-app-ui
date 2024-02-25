@@ -20,5 +20,3 @@ Cred. for login to see UI:
 > email: eve.holt@reqres.in
 > password: cityslicka
 
-Tasks:
-
